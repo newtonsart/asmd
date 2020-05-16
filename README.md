@@ -5,7 +5,7 @@ As I am starting to learn x86 asm, and i found it annoying to do nasm, ld and ./
 
 ## Installation
 ```
-./install.sh
+sudo bash ./install.sh
 ```
 
 ## Usage

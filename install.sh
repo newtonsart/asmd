@@ -1,4 +1,4 @@
-#!/usr/bin bash
-chmod +x asmd.py
-cp asmd.py /usr/local/bin/asmd
+#!/usr/bin/bash
+cp asmd.py /usr/bin/asmd
+chmod +x /usr/bin/asmd
 rm -R ../asmd

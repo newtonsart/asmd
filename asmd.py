@@ -1,4 +1,4 @@
-#!/usr/bin/ python3
+#!/usr/bin/python3
 from os import system as shell
 from sys import argv
 raw_filename = argv[1]
